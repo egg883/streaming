@@ -13,7 +13,7 @@ How to use:
 
 The commands very basic.
 
-[Prefix]streaming (what you want it to say)
+[Prefix]stream (what you want it to say)
 
 [Prefix]listening (what you want it to say)
 
